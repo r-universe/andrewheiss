@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "colourlovers"]
+	path = colourlovers
+	url = https://github.com/andrewheiss/colourlovers
+	shallow = true
+	registered = true
+[submodule "quRan"]
+	path = quRan
+	url = https://github.com/andrewheiss/quran
+	shallow = true
+	registered = true
+[submodule "scriptuRs"]
+	path = scriptuRs
+	url = https://github.com/andrewheiss/scripturs
+	shallow = true
+	registered = true
