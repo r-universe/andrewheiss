@@ -1,10 +1,10 @@
 [
   {
-    "package": "quRan",
+    "package": "colourlovers",
     "oncran": true
   },
   {
-    "package": "colourlovers",
+    "package": "quRan",
     "oncran": true
   },
   {
