@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "RcmdrPlugin.MPAStats",
+    "oncran": true
+  },
+  {
     "package": "scriptuRs",
     "oncran": true
   }

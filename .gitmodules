@@ -13,6 +13,11 @@
 	url = https://github.com/andrewheiss/quran
 	shallow = true
 	registered = true
+[submodule "RcmdrPlugin.MPAStats"]
+	path = RcmdrPlugin.MPAStats
+	url = https://github.com/andrewheiss/rcmdrplugin.mpastats
+	shallow = true
+	registered = true
 [submodule "scriptuRs"]
 	path = scriptuRs
 	url = https://github.com/andrewheiss/scripturs
