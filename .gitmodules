@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RcmdrPlugin.MPAStats"]
+	path = RcmdrPlugin.MPAStats
+	url = https://github.com/andrewheiss/rcmdrplugin.mpastats
 [submodule "colourlovers"]
 	path = colourlovers
 	url = https://github.com/andrewheiss/colourlovers
 [submodule "quRan"]
 	path = quRan
 	url = https://github.com/andrewheiss/quran
-[submodule "RcmdrPlugin.MPAStats"]
-	path = RcmdrPlugin.MPAStats
-	url = https://github.com/andrewheiss/rcmdrplugin.mpastats
 [submodule "scriptuRs"]
 	path = scriptuRs
 	url = https://github.com/andrewheiss/scripturs
